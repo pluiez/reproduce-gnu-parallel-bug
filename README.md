@@ -14,7 +14,7 @@ Tested environment:
   * `This is perl 5, version 40, subversion 0 (v5.40.0) built for x86_64-linux`
 * /usr/bin/zsh and /usr/bin/bash
 * locale:
-    ```
+```
 LANG=en_US.UTF-8
 LANGUAGE=
 LC_CTYPE="en_US.UTF-8"
@@ -30,7 +30,7 @@ LC_TELEPHONE="en_US.UTF-8"
 LC_MEASUREMENT="en_US.UTF-8"
 LC_IDENTIFICATION="en_US.UTF-8"
 LC_ALL=
-    ```
+```
 
 Script output:
 
